@@ -2,3 +2,4 @@ build
 
 .direnv
 .pre-commit-config.yaml
+dist-newstyle
